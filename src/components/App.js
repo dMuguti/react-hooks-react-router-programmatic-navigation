@@ -4,7 +4,7 @@ import Home from "./Home";
 import About from "./About";
 import Login from "./Login";
 import Navbar from "./Navbar";
-
+//app
 function App() {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
